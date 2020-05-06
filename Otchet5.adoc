@@ -1,4 +1,4 @@
-:imagesdir: Otchet5
+:imagesdir: Foto
 
 = Лабораторная работа №5
 
